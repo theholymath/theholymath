@@ -1,10 +1,8 @@
 <h2 align="center">Hi there, I'm Dr. Ryan Croke <p text="bold">The Holy Math</p> 👋</h2>
-<p align="center">
   
 ---
 ## I'm a Husband, Soon to be a Father 👶, Reader, Learner, Math Evangalist, Jazz Evangalist, and Teacher
   
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on strengthening my skills
 - 🌱 I’m currently learning to be a better software engineer
