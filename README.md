@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 <br />
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=theholymath&theme=dark)](https://git.io/streak-stats)
 
 <br />
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=theholymath&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="The Holy Math's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theholymath&layout=compact&theme=buefy&hide_border=true" /></a> |
