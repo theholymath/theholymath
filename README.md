@@ -1,8 +1,6 @@
-### Hi there 👋
-
-
-**theholymath/theholymath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<h2 align="center">i there, I'm Dr. Ryan Croke - aka __The Holy Math__ 👋</h2>
+<p align="center">
+  
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -15,7 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-### Hi there, I'm Dr. Ryan Croke - aka __The Holy Math__ 👋
+
+  
+### H
 
 
 ## I'm a Husband, Father, Developer, and Teacher!!
