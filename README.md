@@ -1,30 +1,18 @@
-<h2 align="center">Hi there, I'm Dr. Ryan Croke - aka <p text="bold">The Holy Math</p> 👋</h2>
+<h2 align="center">Hi there, I'm Dr. Ryan Croke <p text="bold">The Holy Math</p> 👋</h2>
 <p align="center">
+  
+---
+## I'm a Husband, Soon to be a Father 👶, Reader, Learner, Math Evangalist, Jazz Evangalist, and Teacher
   
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-
-  
-### H
-
-
-## I'm a Husband, Father, Developer, and Teacher!!
-
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🔭 I’m currently working on strengthening my skills
+- 🌱 I’m currently learning to be a better software engineer
+- 👯 I’m looking to collaborate on IoT and math-centric projecs
+- 💬 Ask me about anything math related
+- 📫 How to reach me: LinkedIn
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: If it were financially feasible I would do music full-time
 
 <br />
 
