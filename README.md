@@ -1,4 +1,4 @@
-<h2 align="center">i there, I'm Dr. Ryan Croke - aka __The Holy Math__ 👋</h2>
+<h2 align="center">Hi there, I'm Dr. Ryan Croke - aka <p text="bold">The Holy Math</p> 👋</h2>
 <p align="center">
   
 Here are some ideas to get you started:
