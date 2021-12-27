@@ -20,7 +20,8 @@
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
   <img src="https://github.com/file-icons/icons/blob/master/svg/LaTeX.svg" alt="TeX" width="55" height="55"/>
       <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio Code"  width="60" height="50"/>
-      <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/vim/vim-icon.svg" alt="VIM" width="60" height="50"/>
+  
+      <img src="https://www.vectorlogo.zone/logos/vim/vim-ar21.svg" alt="VIM" width="60" height="50"/>
       <img alt="GitHub" src="https://img.shields.io/badge/--181717?logo=github&logoColor=ffffff" width="60" height="50"/>
       <img alt="Terminal" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" width="60" height="50"/>
       <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="60" height="50"/>
