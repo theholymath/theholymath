@@ -1,16 +1,16 @@
 <h2 align="center">Hi there, I'm Dr. Ryan Croke <p text="bold">The Holy Math</p> 👋</h2>
   
 ---
-## I'm a Husband, Soon to be a Father 👶, Reader, Learner, Math Evangalist, Jazz Evangalist, and Teacher
+## I'm a Husband, Soon to be a Father 👶, Reader, Learner, An Evangalist for Math, A Novice Jazz Pianist, and Teacher
   
 
-- 🔭 I’m currently working on strengthening my skills
+- 🔭 I’m currently working on strengthening my skills. I finally gave in and am learning VIM.
 - 🌱 I’m currently learning to be a better software engineer
 - 👯 I’m looking to collaborate on IoT and math-centric projecs
 - 💬 Ask me about anything math related
 - 📫 How to reach me: LinkedIn
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: If it were financially feasible I would do music full-time
+- ⚡ Fun fact: If it were financially feasible I would either do music full-time or go tback to teaching. 
 
 <br />
 
