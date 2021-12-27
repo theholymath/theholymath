@@ -10,7 +10,7 @@
 - 💬 Ask me about anything math related
 - 📫 How to reach me: LinkedIn
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: If it were financially feasible I would either do music full-time or go tback to teaching. 
+- ⚡ Fun fact: If it were financially feasible I would either do music full-time or go back to teaching. 
 
 <br />
 
