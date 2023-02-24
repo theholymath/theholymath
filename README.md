@@ -1,7 +1,7 @@
 <h2 align="center">Hi there, I'm Dr. Ryan Croke <p text="bold">The Holy Math</p> 👋</h2>
   
 ---
-## I'm a Husband, Soon to be a Father 👶, Reader, Learner, An Evangalist for Math, A Novice Jazz Pianist, and Teacher
+## I'm a Husband, a Father 👶, Reader, Learner, An Evangalist for Math, A Novice Jazz Pianist, and Teacher
   
 
 - 🔭 I’m currently working on strengthening my skills. I finally gave in and am learning VIM.
