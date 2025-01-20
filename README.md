@@ -26,7 +26,7 @@ Ph.D. Mathematician turned Physical Systems Engineer, specializing in signal pro
 - Created sensor fusion system integrating IMU data with temperature readings
 - Optimized memory footprint for embedded constraints while maintaining numerical stability
 - Implemented fault detection and sensor calibration systems
-- Tech stack: Fortran, C++, Embedded Systems, Custom PCB Design
+- Tech stack: C++, Embedded Systems, Custom PCB Design
 
 #### Accessible IoT Solutions
 - **Smart Mirror**: Custom magic mirror implementation for cognitive assistance
@@ -39,7 +39,7 @@ Ph.D. Mathematician turned Physical Systems Engineer, specializing in signal pro
 
 | Domain | Technologies & Expertise |
 |----------|-------------|
-| Core | ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Fortran](https://img.shields.io/badge/Fortran-734F96?style=for-the-badge&logo=fortran&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
+| Core | ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
 | Hardware | ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) |
 | Tools | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white) |
 | Development | ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
