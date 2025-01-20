@@ -1,22 +1,21 @@
 <div align="center">
   
 # Dr. Ryan Croke
-### Physical Systems Engineer | Signal Processing Specialist | IoT Developer
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
+### Physical Systems Engineer | Cloud Architect | Signal Processing Specialist
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-croke-ph-d-77708339/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](your-github-url)
 
 </div>
 
 ## About Me 👨‍💻
 
-Ph.D. Mathematician turned Physical Systems Engineer, specializing in signal processing, state estimation, and autonomous systems. I combine rigorous mathematical foundations with practical engineering to solve complex physical world problems. Currently focused on autonomous navigation and control systems.
+Ph.D. Mathematician turned Systems Engineer, bridging the gap between physical systems and cloud infrastructure. I combine rigorous mathematical foundations with modern cloud architecture to build scalable, robust solutions. Specializing in embedded systems, signal processing, and cloud-native applications.
 
 ### Technical Expertise 🎯
-- **Embedded Systems**: Real-time state estimation, memory optimization, hardware constraints
-- **Signal Processing**: Sensor fusion, IMU integration, FFT analysis, digital filters
-- **Numerical Methods**: Cholesky decomposition, numerical stability, linear algebra optimization
-- **State Estimation**: UKF implementation, Kalman filtering, optimal estimation
-- **Control Systems**: Feedback control, fault detection, system identification
+- **Physical Systems**: Embedded development, sensor fusion, real-time processing
+- **Cloud Architecture**: AWS/Azure infrastructure, IoT pipelines, scalable systems
+- **Signal Processing**: Sensor fusion, IMU integration, digital filters
+- **Numerical Computing**: Optimization, state estimation, Kalman filtering
 
 ### Featured Projects 🚀
 
@@ -25,13 +24,13 @@ Ph.D. Mathematician turned Physical Systems Engineer, specializing in signal pro
 - Developed efficient Cholesky decomposition for real-time state estimation
 - Created sensor fusion system integrating IMU data with temperature readings
 - Optimized memory footprint for embedded constraints while maintaining numerical stability
-- Implemented fault detection and sensor calibration systems
-- Tech stack: C++, Embedded Systems, Custom PCB Design
+- Built cloud telemetry and monitoring system using AWS IoT Core
+- Tech stack: Fortran, C++, Embedded Systems, AWS IoT
 
 #### Accessible IoT Solutions
-- **Smart Mirror**: Custom magic mirror implementation for cognitive assistance
-- **Private Video Platform**: Developed secure, simplified video calling system for users with cognitive difficulties
-- Focus on accessibility and user-centric design
+- **Smart Mirror**: Custom magic mirror with cloud-based cognitive assistance
+- **Private Video Platform**: Secure, simplified video calling system
+- Implemented on AWS/Azure with focus on HIPAA compliance and security
 
 ### Skills & Technologies 🛠️
 
@@ -39,15 +38,19 @@ Ph.D. Mathematician turned Physical Systems Engineer, specializing in signal pro
 
 | Domain | Technologies & Expertise |
 |----------|-------------|
-| Core | ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
+| Core | ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Fortran](https://img.shields.io/badge/Fortran-734F96?style=for-the-badge&logo=fortran&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
+| Cloud | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white) |
 | Hardware | ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) |
-| Tools | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white) |
-| Development | ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
+| Tools | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white) |
 
 </div>
 
-### Mathematics & Engineering Publications 📚
-*(We can add your relevant publications here)*
+### Professional Experience 💼
+- Cloud Architecture & Infrastructure Design
+- Data Engineering & ETL Pipeline Development
+- Project Management & Technical Leadership
+- Embedded Systems Development
+- Mathematical Modeling & Optimization
 
 ### Beyond Engineering 🎹
 - Jazz Piano Enthusiast
@@ -58,6 +61,6 @@ Ph.D. Mathematician turned Physical Systems Engineer, specializing in signal pro
 
 <div align="center">
 
-*"Building mathematical bridges between theory and physical reality"*
+*"Building mathematical bridges between embedded systems and cloud infrastructure"*
 
 </div>
