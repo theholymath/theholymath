@@ -12,20 +12,28 @@
 Ph.D. Mathematician turned Systems Engineer, bridging the gap between physical systems and cloud infrastructure. I combine rigorous mathematical foundations with modern cloud architecture to build scalable, robust solutions. Specializing in embedded systems, signal processing, and cloud-native applications.
 
 ### Technical Expertise 🎯
+- **Cloud Architecture**: Kubernetes orchestration, serverless computing, LLM deployment at scale
+- **AI/LLM Systems**: Multi-agent architectures, Text-to-SQL, LLM API integration
 - **Physical Systems**: Embedded development, sensor fusion, real-time processing
-- **Cloud Architecture**: AWS/Azure infrastructure, IoT pipelines, scalable systems
-- **Signal Processing**: Sensor fusion, IMU integration, digital filters
+- **Signal Processing**: IMU integration, digital filters, real-time data processing
 - **Numerical Computing**: Optimization, state estimation, Kalman filtering
 
 ### Featured Projects 🚀
 
+#### Enterprise AI Solutions
+- **Multi-Agent Systems**: Designed and implemented scalable multi-agent architectures for complex task orchestration
+- **Text-to-SQL Engine**: Built natural language to SQL query system with contextual understanding
+- **LLM Integration**: Developed high-throughput API endpoints for OpenAI and other providers
+- **Infrastructure**: Kubernetes-based deployment for LLM serving with auto-scaling
+- Tech stack: Python, Langchain, Kubernetes, FastAPI, OpenAI API
+
 #### Joule: Intelligent Sous Vide Controller
-- Implemented custom UKF (Unscented Kalman Filter) in Fortran/C++ for embedded systems
-- Developed efficient Cholesky decomposition for real-time state estimation
+- Contributed to UKF (Unscented Kalman Filter) implementation for embedded systems
 - Created sensor fusion system integrating IMU data with temperature readings
 - Optimized memory footprint for embedded constraints while maintaining numerical stability
-- Built cloud telemetry and monitoring system using AWS IoT Core
-- Tech stack: Fortran, C++, Embedded Systems, AWS IoT
+- Built cloud telemetry and monitoring system using AWS IoT Core and Lambda
+- Implemented ML-based temperature prediction using Azure ML Studio
+- Tech stack: C++, Python, AWS IoT, Azure ML, Embedded Systems
 
 #### Accessible IoT Solutions
 - **Smart Mirror**: Custom magic mirror with cloud-based cognitive assistance
@@ -38,8 +46,10 @@ Ph.D. Mathematician turned Systems Engineer, bridging the gap between physical s
 
 | Domain | Technologies & Expertise |
 |----------|-------------|
-| Core | ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Fortran](https://img.shields.io/badge/Fortran-734F96?style=for-the-badge&logo=fortran&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
-| Cloud | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white) |
+| Core | ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
+| Cloud & AI | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) |
+| ML/LLM | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![Azure ML](https://img.shields.io/badge/Azure%20ML-00A1E4?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![Langchain](https://img.shields.io/badge/Langchain-121212?style=for-the-badge&logoColor=white) |
+| Serverless | ![Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white) ![Azure Functions](https://img.shields.io/badge/Azure%20Functions-0062AD?style=for-the-badge&logo=azure-functions&logoColor=white) |
 | Hardware | ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) |
 | Tools | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white) |
 
