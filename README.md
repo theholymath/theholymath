@@ -9,7 +9,7 @@
 
 ## About Me 👨‍💻
 
-Ph.D. Mathematician turned Systems Engineer, bridging the gap between physical systems and cloud infrastructure. I combine rigorous mathematical foundations with modern cloud architecture to build scalable, robust solutions. Specializing in embedded systems, signal processing, and cloud-native applications.
+Ph.D. Mathematician turned Software Architect, bridging the gap between physical systems and cloud infrastructure. I combine rigorous mathematical foundations with modern cloud architecture to build scalable, robust solutions. Specializing in embedded systems, signal processing, and cloud-native applications.
 
 ### Technical Expertise 🎯
 - **Cloud Architecture**: Kubernetes orchestration, serverless computing, LLM deployment at scale
